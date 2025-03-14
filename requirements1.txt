@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+sentence_transformers
+fitz
+pymupdf
+nltk
+Word2Vec
+gensim
+punkt
